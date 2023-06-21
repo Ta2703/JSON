@@ -1,0 +1,41 @@
+{
+"Hard skills": {
+"Basic theory":{
+"SDLC",
+"STLC"
+},
+"Client-server architecture",
+"JSON",
+"XML",
+"HTTP":{
+"Request methods for the server",
+"HTTP server answers",
+"HTTP structures of requests and answers"
+},
+"API testing via Postman": {
+"JS",
+"Autobes API"
+},
+"Dev Tools": {
+"Google Chrome",
+"FireFox"
+},
+"VPN",
+"Mobile testing",
+"IOS",
+"Android",
+"ADB",
+"SQL": {
+"Create",
+"Delete",
+"Drop",
+"Insert Into",
+"Select",
+"From",
+"Where",
+"Join"
+},
+"Python"
+},
+}
+
