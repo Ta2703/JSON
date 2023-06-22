@@ -1,83 +1,86 @@
 [
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "What is a client-server architecture."
+        "Hard skills: ": "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "HTTP Methods of requests to the server."
+        "Hard skills: ": "What is a client-server architecture."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "HTTP server response codes."
+        "Hard skills: ": "HTTP Methods of requests to the server."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Structures of HTTP requests and responses."
+        "Hard skills: ": "HTTP server response codes."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "What is JSON, XML. Their structure."
+        "Hard skills: ": "Structures of HTTP requests and responses."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "API testing via Postman (JS, API autotests)."
+        "Hard skills: ": "What is JSON, XML. Their structure."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Removing and reading logs from an external server."
+        "Hard skills: ": "API testing via Postman (JS, API autotests)."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Sniffing http web traffic via Charles and Fiddler."
+        "Hard skills: ": "Removing and reading logs from an external server."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Dev Tools of web browsers (Google Chrome, FireFox)."
+        "Hard skills: ": "Sniffing http web traffic via Charles and Fiddler."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "VPN. (How it works, why you need it, how to use it, tool options)"
+        "Hard skills: ": "Dev Tools of web browsers (Google Chrome, FireFox)."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Mobile testing."
+        "Hard skills: ": "VPN. (How it works, why you need it, how to use it, tool options)"
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Feature iOS, Android, guidelines."
+        "Hard skills: ": "Mobile testing."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Building iOS applications on XCode. (Those who do not have a Mac computer, just look)"
+        "Hard skills: ": "Feature iOS, Android, guidelines."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Building Android applications on Android Studio."
+        "Hard skills: ": "Building iOS applications on XCode. (Those who do not have a Mac computer, just look)"
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "ADB (android device management)."
+        "Hard skills: ": "Building Android applications on Android Studio."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Setting up proxy and vpn on iOS and Android."
+        "Hard skills: ": "ADB (android device management)."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android."
+        "Hard skills: ": "Setting up proxy and vpn on iOS and Android."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)"
+        "Hard skills: ": "Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Basics of bash scripting, automation of routine tasks on the server."
+        "Hard skills: ": "Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)"
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Access to remote servers."
+        "Hard skills: ": "Basics of bash scripting, automation of routine tasks on the server."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)."
+        "Hard skills: ": "Access to remote servers."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Postgres database (installation, configuration and use)."
+        "Hard skills: ": "SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Non-relational database Redis (installation, configuration and use)."
+        "Hard skills: ": "Postgres database (installation, configuration and use)."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Load testing in Jmeter."
+        "Hard skills: ": "Non-relational database Redis (installation, configuration and use)."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Scrum development methodology."
+        "Hard skills: ": "Load testing in Jmeter."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Test Design Techniques (Equivalence Classes, Boundary Values, Combinatorial Techniques (Pairwise, Orthogonal, Basic Choice, Every Choice), States and Transitions)"
+        "Hard skills: ": "Scrum development methodology."
     },
     {
-        "Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.": "Python. (Learning the basics. Creating a client-server application)"
+        "Hard skills: ": "Test Design Techniques (Equivalence Classes, Boundary Values, Combinatorial Techniques (Pairwise, Orthogonal, Basic Choice, Every Choice), States and Transitions)"
+    },
+    {
+        "Hard skills: ": "Python. (Learning the basics. Creating a client-server application)"
     }
 ]
